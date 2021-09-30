@@ -1,0 +1,17 @@
+.titulo {
+    text-align: center;
+    font-weight: 700;
+}
+
+.contBarra {
+    font-size: small;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+.logoAlign {
+    width: 40%;
+    margin-left: 190px;
+    
+}
