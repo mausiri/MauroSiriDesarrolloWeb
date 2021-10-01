@@ -1,17 +1,42 @@
 .titulo {
     text-align: center;
     font-weight: 700;
-}
-
-.contBarra {
-    font-size: small;
     background-color: black;
     color: white;
-    padding: 10px;
+}
+
+.gif2 {
+    margin-left: 23px;
 }
 
 .logoAlign {
     width: 40%;
     margin-left: 190px;
-    
+}
+
+.textoCentrado {
+    text-align: center;
+    padding: 20px;
+}
+
+.boton {
+    margin-left: 110px;
+}
+
+.img {
+    margin-left: 55px;
+}
+
+table {
+    border-color: black;
+    border-width: thick;
+}
+
+h2 {
+    text-align: center;
+}
+
+.txtRanger {
+    font-size: 14px;
+    padding: 20px;
 }
